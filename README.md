@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 Copy the Repository to your IDE.
 
-=> Run npm i.
-=> Run npm run dev 
+## Run npm i.
+## Run npm run dev 
